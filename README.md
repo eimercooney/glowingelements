@@ -1,3 +1,3 @@
 # Elements
 
-https://eimercooney.github.io/glowingelements/elementshome.html
+https://eimercooney.github.io/glowingelements/elementhome.html
